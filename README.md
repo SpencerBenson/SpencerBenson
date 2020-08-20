@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hey 👋, This is Spencer Benson
+[![Gmail Badge](https://img.shields.io/badge/-bennspencer@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:bennspencer@gmail.com)](mailto:bennspencer@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-spencerbenson-njuguna-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/spencerbenson-njuguna/)](https://www.linkedin.com/in/spencerbenson-njuguna/) [![Github Badge](https://img.shields.io/badge/-SpencerBenson-grey?style=flat&logo=github&logoColor=white&link=https://github.com/SpencerBenson/)](https://www.github.com/SpencerBenson/) [![Twitter Badge](https://img.shields.io/badge/-babi_msoto-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/babi_msoto/)](https://www.twitter.com/babi_msoto/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=http://kayad.co.ke/)](http://kayad.co.ke/) <p align='left'> Hey, nice to see you. I'm Benson, a fullstack software engineer From Nairobi, Kenya</p><p align='left'> You can view my resume <a href='https://drive.google.com/file/d/10jw_ZXkAOk8yn7GQfwC9DnDCmCEW2pVz/view?usp=sharing ' target=_blank><u>here</u>.</a></p>
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=SpencerBenson alt=SpencerBenson /> </p>
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=SpencerBenson&show_icons=true&include_all_commits=true)](https://github.com/SpencerBenson/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpencerBenson&layout=compact)](https://github.com/SpencerBenson/github-readme-stats)
